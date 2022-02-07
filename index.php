@@ -18,7 +18,7 @@
         </form>
         <?php 
             include("registrar.php");
-            
+            echo "I'll change this";
 
                 ?>
 </body>
