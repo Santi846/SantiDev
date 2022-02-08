@@ -19,7 +19,7 @@
         <?php 
             include("registrar.php");
             echo "I'll change this";
-
+            echo "I enjoy this";
                 ?>
 </body>
 </html>
