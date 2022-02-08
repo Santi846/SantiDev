@@ -15,11 +15,14 @@
             <input type="text" name = "name" placeholder="Nombre Completo">
             <input type="email" name="email" placeholder="Email">
             <input type="submit" name="register">
+            <p>Selecciona un color</p>
+            <input type="color" name="color">
         </form>
         <?php 
             include("registrar.php");
             echo "I'll change this";
             echo "I enjoy this";
+            
                 ?>
 </body>
 </html>
