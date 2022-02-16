@@ -22,7 +22,6 @@
         <?php 
             include("registrar.php");
                 ?>
-
-        <p>La vida es una, pero no quiero salir de mi laguna</p>
+        <p>Tanto practicar con ramas y ninguna llega a mi alma</p>
 </body>
 </html>
