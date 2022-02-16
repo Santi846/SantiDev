@@ -18,11 +18,11 @@
             <p>Selecciona un color</p>
             <input type="color" name="color">
         </form>
+
         <?php 
             include("registrar.php");
-            echo "I'll change this";
-            echo "I enjoy this";
-            
                 ?>
+
+        <p>La vida es una, pero no quiero salir de mi laguna</p>
 </body>
 </html>
