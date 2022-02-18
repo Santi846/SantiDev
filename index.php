@@ -22,6 +22,10 @@
         <?php 
             include("registrar.php");
                 ?>
-        <p>Enfocado</p>
+        
+
+
+
+        <p>Vamo papa, vamo que se puede</p>
 </body>
 </html>
