@@ -23,6 +23,6 @@
             include("registrar.php");
                 ?>
 
-        <p>La vida es una, pero no quiero salir de mi laguna</p>
+        <p>Ya no hay tristeza en esta cabeza</p>
 </body>
 </html>
