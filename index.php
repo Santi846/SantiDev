@@ -22,6 +22,6 @@
         <?php 
             include("registrar.php");
                 ?>
-        <p>Tanto practicar con ramas y ninguna llega a mi alma</p>
+        <p>Enfocado</p>
 </body>
 </html>
