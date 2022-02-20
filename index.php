@@ -22,16 +22,13 @@
         <?php 
             include("registrar.php");
                 ?>
-<<<<<<< HEAD
 
         <p>Ya no hay tristeza en esta cabeza</p>
         <p>Enfocado</p>
-=======
         
 
 
 
         <p>Vamo papa, vamo que se puede</p>
->>>>>>> rama
 </body>
 </html>
