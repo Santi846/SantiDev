@@ -23,7 +23,7 @@
             include("registrar.php");
                 ?>
 
-        <p>Ya no hay tristeza en esta cabeza</p>
+        <p>Crack</p>
         <p>Enfocado</p>
         
 
