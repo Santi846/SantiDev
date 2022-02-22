@@ -30,5 +30,6 @@
 
 
         <p>Vamo papa, vamo que se puede</p>
+        <a href="Practicals/index.php">Practicals</a>
 </body>
 </html>

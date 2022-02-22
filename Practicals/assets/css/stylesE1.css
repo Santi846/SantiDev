@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    background:burlywood;
+}
+.problem{
+    background:skyblue;
+}
+.solving{
+    background:rgb(235, 158, 135);
+}
+.impares{
+    background:#adadad;
+}
+.pares{
+    background:#ffffff;
+}
