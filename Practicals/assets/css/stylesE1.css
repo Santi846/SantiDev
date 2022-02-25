@@ -14,3 +14,16 @@ body{
 .pares{
     background:#ffffff;
 }
+.circle{
+    list-style-type: disc;
+}
+.empty{
+    list-style-type: circle;    
+}
+.little_square{
+    list-style-type: square;
+}
+#sen_cos{
+    border:1px solid black;
+    color: aliceblue;
+}

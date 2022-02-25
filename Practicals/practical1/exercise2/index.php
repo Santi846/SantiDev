@@ -45,7 +45,7 @@
                 ?>
             </td>
         </tr>
-        <tr>
+        <tr>   
             <td class="pares">
             <?php 
                 for ($i=2; $i <=1024 ; $i*=2) { 
