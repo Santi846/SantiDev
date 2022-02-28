@@ -18,5 +18,6 @@
     <h1>Practical 1</h1>
     <a href="exercise1/index.php">Exercise 1</a>
     <a href="exercise2/index.php">Exercise 2</a>
+    <a href="exercise3/index.php">Exercise 3</a>
 </body>
 </html>

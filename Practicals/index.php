@@ -17,5 +17,6 @@
     </header>
     <h1>My practicals</h1>
     <a href="practical1/index.php">First practical</a>
+    <a href="practical2/index.php">Second practical</a>
 </body>
 </html>
