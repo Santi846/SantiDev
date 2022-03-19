@@ -2,6 +2,15 @@ body{
     font-family: sans-serif;
     background:burlywood;
 }
+h1{
+    margin:0 1em;
+    color:#fff;
+    font-size: 3.5em;
+    letter-spacing: 1px;
+}
+.output{
+    border-right: 1px #fff solid;
+}
 .problem{
     background:skyblue;
 }

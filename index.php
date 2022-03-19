@@ -9,7 +9,11 @@
     <title>Santi.dev</title>
 </head>
 <body>
-        <h1>Santi.dev</h1>  
+        <section>
+         <h1>Santiago Arocha,&nbsp;
+             <span class="output"></span>
+         </h1> 
+        </section> 
         <h2>Suscríbete</h2>
         <form action="post">
             <input type="text" name = "name" placeholder="Nombre Completo">
