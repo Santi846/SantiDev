@@ -20,7 +20,7 @@ const words = [
 //colors for the individual words
 const colors = [
     "#f72585",
-    "#e9c46a",
+    "#457b9d",
     "#7209b7"
 ];
 
