@@ -84,11 +84,21 @@ nav{
     padding-top: 20px;
     padding-bottom: 20px;
     background: #6b705c;
+    max-width: 1450px;
 }
 .link{
     text-decoration:none;
     color:#ededed;
+    margin: 5px;
 }
 .link:hover{
     background:#b7b7a4;
+}
+
+.separator{
+    margin-left: 20px;
+}
+
+.profile{
+    text-decoration: none;
 }
